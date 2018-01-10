@@ -3,7 +3,8 @@ A List of Android App I Created
 
 
 # [Viusal Rolodex App]( https://github.com/Raywilliams01/MobileTakeHomeInterView.git)
-        This project was a sample
+    This goal is create a visual rolodex app.  App will get some sample data in JSON form, display the data in a cards that you can navigate with your fingers. Showcases individual cards against a colored background, and allows you to move between them horizontally.  
+    
 1. Create a Viusal Rolodex App
 2. Pull data from JSON
 3. User must be able to
