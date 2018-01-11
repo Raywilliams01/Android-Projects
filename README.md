@@ -3,7 +3,7 @@ A List of Android App I Created while doing my online education with Udacity
 
 
 # [Viusal Rolodex App]( https://github.com/Raywilliams01/MobileTakeHomeInterView.git)
-    This goal is create a visual rolodex app.  App will get some sample data in JSON form, display the data in a cards that you can navigate with your fingers. Showcases individual cards against a colored background, and allows you to move between them horizontally.  
+This goal is create a visual rolodex app.  App will get some sample data in JSON form, display the data in a cards that you can navigate with your fingers. Showcases individual cards against a colored background, and allows you to move between them horizontally.  
 
 1. Create a Viusal Rolodex App
 2. Pull data from JSON
@@ -33,11 +33,11 @@ If you are fimilar with github open your terminal and paste in the following cod
 The purpose of this project is design and create the structure of an Inventory App which would allow a store to keep track of its inventory of products. The app will need to store information about price, quantity available, supplier, and a picture of the product. It will also need to allow the user to track sales and shipments and make it easy for the user to order more from the listed supplier.
 
 ### Project Includes
-    Storing information in a SQLite database
-    Integrating Android’s file storage systems into that database
-    Presenting information from files and SQLite databases to users
-    Updating information based on user input.
-    Creating intents to other apps using stored information.
+Storing information in a SQLite database
+Integrating Android’s file storage systems into that database
+Presenting information from files and SQLite databases to users
+Updating information based on user input.
+Creating intents to other apps using stored information.
 
 
 ![screenshot_20180110-073930](https://user-images.githubusercontent.com/10648696/34773841-21e6a592-f5db-11e7-84e1-97682ad6f357.png)
@@ -53,7 +53,7 @@ The purpose of this project is design and create the structure of an Inventory A
 
 # [Habit Tracking App](https://github.com/Raywilliams01/HabitTrackerApp.git)
 
-    The goal of this project is design and create the structure of a Habit Tracking app which would allow a user to store and track their habits over time. This project will not have any UI components; instead, it will focus on what happens behind the scenes, practicing how to design and implement a simple database.
+The goal of this project is design and create the structure of a Habit Tracking app which would allow a user to store and track their habits over time. This project will not have any UI components; instead, it will focus on what happens behind the scenes, practicing how to design and implement a simple database.
 
 
 ````java
@@ -79,7 +79,7 @@ The purpose of this project is design and create the structure of an Inventory A
 
 # [Search Book App](https://github.com/Raywilliams01/Book)
 
-    The goal of this project is design and create the structure of a Book Listing app which would allow a user to get a list of published books on a given topic. You will be using the google books api in order to fetch results and display them to the user.
+The goal of this project is design and create the structure of a Book Listing app which would allow a user to get a list of published books on a given topic. You will be using the google books api in order to fetch results and display them to the user.
 
 * Fetching data from an API
 * Using an AsyncTask
