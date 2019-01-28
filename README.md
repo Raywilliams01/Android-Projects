@@ -1,5 +1,5 @@
 # Android-Projects
-A List of Android App I Created while doing my online education with Udacity
+A List of Android App I created while doing my online studys at Udacity.
 
 
 # [Viusal Rolodex App]( https://github.com/Raywilliams01/MobileTakeHomeInterView.git)
